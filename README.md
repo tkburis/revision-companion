@@ -11,7 +11,7 @@ python app.py
 ```
 ## Dependencies
 
-This was made possible by [PyInquirer](https://github.com/CITGuru/PyInquirer) and [Rich](https://github.com/willmcgugan/rich). 
+This was made possible thanks to [PyInquirer](https://github.com/CITGuru/PyInquirer) and [Rich](https://github.com/willmcgugan/rich). 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
